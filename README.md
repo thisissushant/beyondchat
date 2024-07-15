@@ -36,4 +36,4 @@ npm run dev
 ```
 
 ## Live Project
-[Click here to view live app](https://aurika.netlify.app/)
+[Click here to view live app](https://beyondchat.netlify.app/)
